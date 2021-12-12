@@ -1,0 +1,5 @@
+Atari800.rmp:
+put to :/RetroArch/.retroarch/config/remaps/Atari800/
+
+*.rom|ROM:
+put to :/RetroArch/.retroarch/system/
