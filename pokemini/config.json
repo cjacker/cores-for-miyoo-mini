@@ -1,0 +1,12 @@
+{
+"label":"pokemini",
+"icon":"pokemini.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../RRoms/pokemini",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}
