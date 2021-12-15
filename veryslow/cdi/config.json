@@ -1,0 +1,12 @@
+{
+"label":"Philips CD-i",
+"icon":"cdi.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../RRoms/cdi",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}
